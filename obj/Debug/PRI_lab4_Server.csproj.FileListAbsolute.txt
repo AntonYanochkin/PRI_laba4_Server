@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\PRI_lab4_Server\obj\Debug\PRI_lab4_Server.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PRI_lab4_Server\obj\Debug\PRI_lab4_Server.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PRI_lab4_Server\bin\Debug\PRI_lab4_Server.exe.config
+C:\Users\user\source\repos\PRI_lab4_Server\bin\Debug\PRI_lab4_Server.exe
+C:\Users\user\source\repos\PRI_lab4_Server\bin\Debug\PRI_lab4_Server.pdb
+C:\Users\user\source\repos\PRI_lab4_Server\obj\Debug\PRI_lab4_Server.exe
+C:\Users\user\source\repos\PRI_lab4_Server\obj\Debug\PRI_lab4_Server.pdb
