@@ -5,3 +5,9 @@ C:\Users\user\source\repos\PRI_lab4_Server\bin\Debug\PRI_lab4_Server.exe
 C:\Users\user\source\repos\PRI_lab4_Server\bin\Debug\PRI_lab4_Server.pdb
 C:\Users\user\source\repos\PRI_lab4_Server\obj\Debug\PRI_lab4_Server.exe
 C:\Users\user\source\repos\PRI_lab4_Server\obj\Debug\PRI_lab4_Server.pdb
+C:\Users\user\source\repos\PRI_lab4_Server\bin\Debug\PRI_lab4_Server.exe.manifest
+C:\Users\user\source\repos\PRI_lab4_Server\bin\Debug\PRI_lab4_Server.application
+C:\Users\user\source\repos\PRI_lab4_Server\obj\Debug\PRI_lab4_Server.Properties.Resources.resources
+C:\Users\user\source\repos\PRI_lab4_Server\obj\Debug\PRI_lab4_Server.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PRI_lab4_Server\obj\Debug\PRI_lab4_Server.exe.manifest
+C:\Users\user\source\repos\PRI_lab4_Server\obj\Debug\PRI_lab4_Server.application

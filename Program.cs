@@ -24,25 +24,6 @@ namespace PRI_lab4_Server
                 Console.WriteLine($"Удаленный адрес: {result.RemoteEndPoint}");
                 Console.WriteLine(message);
                 byte[] broadcastMessage = Encoding.ASCII.GetBytes($"{result.RemoteEndPoint.Address}:{message}");
-                Console.WriteLine("ipendpoints:");
-                foreach (var ip_end_point in iPAddress)
-                {
-                    Console.WriteLine(ip_end_point+":"+ message);
-                    udpForSend.Send(broadcastMessage, broadcastMessage.Length, ip_end_point);
-                }
-                Console.WriteLine("-------------------------");
-            }
-        }
-        //удали эту фигню
-        static async Task workNiger()
-        {
-            
-        }
-        static  void SendToEveryOne(byte[] sendBytes)
-        {
-            foreach (var ip_end_point in iPAddress)
-            {
-                  udpServer.Send(sendBytes, sendBytes.Length, ip_end_point);
             }
         }
     }
