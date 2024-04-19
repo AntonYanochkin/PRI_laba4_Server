@@ -24,6 +24,10 @@ namespace PRI_lab4_Server
                 Console.WriteLine($"Удаленный адрес: {result.RemoteEndPoint}");
                 Console.WriteLine(message);
                 byte[] broadcastMessage = Encoding.ASCII.GetBytes($"{result.RemoteEndPoint.Address}:{message}");
+                foreach (var ip_end_point in iPAddress)
+                {
+                    udpForSend.Send(broadcastMessage, broadcastMessage.Length, ip_end_point);
+                }
             }
         }
     }
